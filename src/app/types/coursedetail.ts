@@ -4,8 +4,8 @@ export type CourseDetailType = {
   profession: string
   price: string
   category:
-    | 'mobiledevelopment'
-    | 'webdevelopment'
-    | 'datascience'
-    | 'cloudcomputing'
+     | 'professionalgrooming'
+    | 'publicspeaking'
+    | 'personalbranding'
+    | 'masterofceremony'
 }
