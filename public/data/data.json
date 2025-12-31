@@ -1,0 +1,117 @@
+{
+    "HeaderData": [
+        { "label": "Home", "href": "/#Home" },
+        { "label": "Services", "href": "/#Courses" },
+        { "label": "Mentors", "href": "/#mentors-section" },
+        { "label": "Portfolio", "href": "/#testimonial-section" },
+        { "label": "Contact Us", "href": "/#contact" }
+    ],
+    "CourseData": [
+        { "name": "Professional Grooming" },
+        { "name": "Public Speaking" },
+        { "name": "Personal Branding" },
+        { "name": "Master of Ceremony" }
+    ],
+    "HourData": [
+        { "name": "Quick Session (2hrs)" },
+        { "name": "Intensive Boot Camp (10hrs)" },
+        { "name": "Monthly Mentoring (20hrs)" },
+        { "name": "Full Certification" }
+    ],
+    "Companiesdata": [
+        { "imgSrc": "/images/slickCompany/airbnb.svg" },
+        { "imgSrc": "/images/slickCompany/hubspot.svg" },
+        { "imgSrc": "/images/slickCompany/microsoft.svg" },
+        { "imgSrc": "/images/slickCompany/google.svg" },
+        { "imgSrc": "/images/slickCompany/walmart.svg" },
+        { "imgSrc": "/images/slickCompany/fedex.svg" }
+    ],
+    "CourseDetailData": [
+        {
+            "course": "Executive Grooming",
+            "imageSrc": "/images/courses/coursesOne.svg",
+            "profession": "Membangun Citra Visual & Etiket Bisnis Profesional",
+            "price": "150",
+            "category": "professionalgrooming"
+        },
+        {
+            "course": "Stage Presence",
+            "imageSrc": "/images/courses/coursesTwo.svg",
+            "profession": "Teknik Menguasai Panggung & Bahasa Tubuh",
+            "price": "120",
+            "category": "publicspeaking"
+        },
+        {
+            "course": "Art of MC",
+            "imageSrc": "/images/courses/coursesThree.svg",
+            "profession": "Menjadi Master of Ceremony yang Energik & Berkelas",
+            "price": "200",
+            "category": "masterofceremony"
+        },
+        {
+            "course": "Digital Branding",
+            "imageSrc": "/images/courses/coursesFour.svg",
+            "profession": "Optimasi LinkedIn & Media Sosial untuk Profesional",
+            "price": "99",
+            "category": "personalbranding"
+        }
+    ],
+    "MentorData": [
+        {
+            "name": "Senior Image Consultant",
+            "href": "#",
+            "imageSrc": "/images/mentor/boy1.svg",
+            "imageAlt": "Professional Portrait",
+            "color": "Alexander Pratama"
+        },
+        {
+            "name": "TV Presenter & MC",
+            "href": "#",
+            "imageSrc": "/images/mentor/girl1.svg",
+            "imageAlt": "Professional Portrait",
+            "color": "Saraswati Putri"
+        },
+        {
+            "name": "Mindset & Motivation Coach",
+            "href": "#",
+            "imageSrc": "/images/mentor/boy3.svg",
+            "imageAlt": "Professional Portrait",
+            "color": "Budi Santoso"
+        }
+    ],
+    "TestimonialData": [
+        {
+            "profession": "Corporate Manager",
+            "name": "Rina Wijaya",
+            "imgSrc": "/images/testimonial/user-1.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "Setelah mengikuti sesi Grooming dan Public Speaking, kepercayaan diri saya meningkat drastis saat presentasi di depan direksi."
+        },
+        {
+            "profession": "Content Creator",
+            "name": "Denny Hermawan",
+            "imgSrc": "/images/testimonial/user-2.jpg",
+            "starimg": "/images/testimonial/stars.png",
+            "detail": "Materi Personal Branding-nya sangat praktis. Sekarang profil LinkedIn saya jauh lebih menarik perhatian recruiter."
+        }
+    ],
+    "FooterLinkData": [
+        {
+            "section": "Services",
+            "links": [
+                { "label": "Personal Branding", "href": "/#Home" },
+                { "label": "MC Booking", "href": "/#Courses" },
+                { "label": "Private Mentoring", "href": "/#mentors-section" },
+                { "label": "Corporate Workshop", "href": "/#testimonial-section" }
+            ]
+        },
+        {
+            "section": "Support",
+            "links": [
+                { "label": "Help Center", "href": "/" },
+                { "label": "Terms of Service", "href": "/" },
+                { "label": "Privacy Policy", "href": "/" }
+            ]
+        }
+    ]
+}
